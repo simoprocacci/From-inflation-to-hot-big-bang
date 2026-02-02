@@ -16,4 +16,4 @@ No warranty is expressed or implied.
                                                                                                 
 For bug reports and other feedback, please contact <laine@itp.unibe.ch> and <simona.procacci@proton.me>.                                           
 
-(fig_scales.jpg)
+![Banner](fig_scales.jpg)
